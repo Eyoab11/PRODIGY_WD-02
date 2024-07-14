@@ -1,6 +1,6 @@
 import React from 'react';
 import Timer from './components/Timer';
-import timerImage from './assets/clock.jpg'; // Assuming 'timer.jpg' is in './assets/' directory
+import timerImage from './assets/clock.jpg'; 
 
 const App = () => {
     return (
